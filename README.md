@@ -13,4 +13,6 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 # Licence
 [MIT](https://mit-license.org/)
 
-![](C:\Users\esrag\OneDrive\Resimler\Ekran Görüntüleri\2022-07-13 (1).png)
+
+
+![resim](C:\Users\esrag\OneDrive\Masaüstü\resim.png)
